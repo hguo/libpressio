@@ -1,0 +1,20 @@
+<map id="include/libpressio_ext/cpp/compressor.h" name="include/libpressio_ext/cpp/compressor.h">
+<area shape="rect" id="node4" href="$metrics_8h.html" title="an extension header for adding metrics plugins to libpressio " alt="" coords="995,95,1077,121"/>
+<area shape="rect" id="node6" href="$configurable_8h.html" title="interface for configurable types " alt="" coords="783,177,897,203"/>
+<area shape="rect" id="node31" href="$versionable_8h.html" title="interface for versionable types " alt="" coords="1074,177,1185,203"/>
+<area shape="rect" id="node32" href="$span_8h.html" title="back ports of &lt;span&gt; " alt="" coords="1309,169,1475,211"/>
+<area shape="rect" id="node42" href="$errorable_8h.html" title="interface for types which can report and have errors " alt="" coords="744,95,837,121"/>
+<area shape="rect" id="node7" href="$options_8h.html" title="C++ pressio_options and pressio_option interfaces. " alt="" coords="831,259,913,285"/>
+<area shape="rect" id="node11" href="$pressio__options_8h.html" title="A set of options for a compressor. " alt="" coords="5,430,141,457"/>
+<area shape="rect" id="node14" href="$pressio__option_8h.html" title="A single option value for a compressor. " alt="" coords="465,341,594,367"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="C++ pressio_data interface. " alt="" coords="803,333,943,375"/>
+<area shape="rect" id="node26" href="$optional_8h.html" title="back ports of &lt;optional&gt; " alt="" coords="1074,333,1241,375"/>
+<area shape="rect" id="node28" href="$variant_8h.html" title="back ports of &lt;variant&gt; " alt="" coords="1265,333,1431,375"/>
+<area shape="rect" id="node12" href="$pressio__dtype_8h.html" title="Information on types used by libpressio. " alt="" coords="393,512,519,539"/>
+<area shape="rect" id="node21" href="$pressio__data_8h.html" title="an abstraction for a contagious memory region of a specified type " alt="" coords="397,430,515,457"/>
+<area shape="rect" id="node22" href="$dtype_8h.html" title="C++ interface to data types. " alt="" coords="539,423,679,464"/>
+<area shape="rect" id="node24" href="$utility_8h.html" title="back ports of &lt;utility&gt; " alt="" coords="755,423,922,464"/>
+<area shape="rect" id="node37" href="$type__traits_8h.html" title="back ports of &lt;type_traits&gt; " alt="" coords="1495,259,1599,285"/>
+<area shape="rect" id="node38" href="$iterator_8h.html" title="back ports of &lt;iterator&gt; " alt="" coords="1746,259,1827,285"/>
+<area shape="rect" id="node40" href="$cstddef_8h.html" title="back ports of &lt;cstddef&gt; " alt="" coords="1927,259,2009,285"/>
+</map>
